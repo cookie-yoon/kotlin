@@ -1,4 +1,3 @@
-//HelloKotlin.kt
-fun main(){// Entry point of the program
-  println("HelloKotlin")// Setence printed
+fun main(args: Array<String>) {
+	println("HelloKotlin")
 }
